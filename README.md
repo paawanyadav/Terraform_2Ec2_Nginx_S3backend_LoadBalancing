@@ -2,6 +2,7 @@
 Creating Ec2 instance 
 Creating Security Group and attaching it with newly created Ec2
 Installing Nginx 
+Creating Load balancer  --> listner --> Target Group --> attaching that target group
 Using S3 bucket for terraform backend files
 
 #Terraform Commands
